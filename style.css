@@ -1,0 +1,22 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1024px;
+}
+
+header {
+  height: 8rem;
+  background-color: green;
+}
+nav {
+  height: 6rem;
+  background-color: yellowgreen;
+}
+main {
+  height: 12rem;
+  background-color: red;
+}
+footer {
+  height: 5rem;
+  background-color: blueviolet;
+}
